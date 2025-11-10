@@ -35,7 +35,7 @@
 1. **Clone the repository**
    ```bash
    git clone <repository-url>
-   cd ZZZ_OpenAIBackup
+   cd Riverwood_Challenge
    ```
 
 2. **Set up virtual environment**
