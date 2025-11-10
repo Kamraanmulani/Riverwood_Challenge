@@ -13,7 +13,6 @@
 
 ## ✨ Features
 
-- 🚀 **Ultra-Fast Response**: ~900ms server-side latency (STT → LLM → TTS)
 - 🌐 **Multilingual Support**: Hindi, Hinglish, English (auto-detected)
 - 🧠 **Intelligent Memory**: Context-aware conversations with Neo4j knowledge graph
 - 📚 **Document Retrieval**: Smart routing to property pricing, specifications, and FAQs
