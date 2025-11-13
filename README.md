@@ -13,7 +13,6 @@
 
 ## ✨ Features
 
-- 🚀 **Ultra-Fast Response**: ~900ms server-side latency (STT → LLM → TTS)
 - 🌐 **Multilingual Support**: Hindi, Hinglish, English (auto-detected)
 - 🧠 **Intelligent Memory**: Context-aware conversations with Neo4j knowledge graph
 - 📚 **Document Retrieval**: Smart routing to property pricing, specifications, and FAQs
@@ -36,7 +35,7 @@
 1. **Clone the repository**
    ```bash
    git clone <repository-url>
-   cd ZZZ_OpenAIBackup
+   cd Riverwood_Challenge
    ```
 
 2. **Set up virtual environment**
